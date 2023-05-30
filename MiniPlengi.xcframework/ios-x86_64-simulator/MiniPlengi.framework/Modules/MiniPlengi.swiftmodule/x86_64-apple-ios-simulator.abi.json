@@ -15769,168 +15769,189 @@
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 7995,
+      "offset": 7883,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 8216,
+      "offset": 7899,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8096,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 8433,
+      "offset": 8362,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8579,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 8481,
+      "offset": 8627,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 8577,
+      "offset": 8723,
       "length": 51,
       "value": "\"LocationTracker:: timerCallback:: location is nil\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 8978,
+      "offset": 9124,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 9555,
+      "offset": 9701,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 9560,
+      "offset": 9706,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "FloatLiteral",
-      "offset": 10003,
+      "offset": 10149,
       "length": 8,
       "value": "20000.00"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10092,
+      "offset": 10238,
       "length": 183,
       "value": "\"LocationTracker:: timerCallback:: \nlat: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10168,
+      "offset": 10314,
       "length": 1,
       "value": "\", \nlng: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10212,
+      "offset": 10358,
       "length": 1,
       "value": "\" \nAccuracy: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10236,
+      "offset": 10382,
       "length": 1,
       "value": "\" \nTimeStamp: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10274,
+      "offset": 10420,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10346,
+      "offset": 10492,
       "length": 5,
       "value": "\"lat\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10415,
+      "offset": 10561,
       "length": 5,
       "value": "\"lng\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10485,
+      "offset": 10631,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 10536,
+      "offset": 10682,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 10790,
+      "offset": 10936,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "Array",
-      "offset": 10814,
+      "offset": 10960,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 11256,
+      "offset": 11402,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 11559,
+      "offset": 11705,
       "length": 93,
       "value": "\"LocationTracker:: locationManager(didFailWithError):: ERROR : \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "StringLiteral",
-      "offset": 11651,
-      "length": 29,
+      "offset": 11797,
+      "length": 53,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11844,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/LocationTracker.swift",
       "kind": "IntegerLiteral",
-      "offset": 11795,
+      "offset": 11965,
       "length": 1,
       "value": "5"
     },
@@ -39178,482 +39199,482 @@
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
       "offset": 7361,
-      "length": 92,
-      "value": "\"PlaceEngine:: init:: 🟢initialzing MiniPlengi client_id: \""
+      "length": 93,
+      "value": "\"PlaceEngine:: init:: 🟢initializing MiniPlengi client_id: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 7426,
+      "offset": 7427,
       "length": 1,
       "value": "\", client_secret: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 7452,
+      "offset": 7453,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 8596,
+      "offset": 8597,
       "length": 45,
       "value": "\"PlaceEngine:: initRun:: engineStatus : stop\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 8841,
+      "offset": 8842,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 8942,
+      "offset": 8943,
       "length": 45,
       "value": "\"PlaceEngine:: initRun:: engineStatus : none\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 9114,
+      "offset": 9115,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 9263,
+      "offset": 9264,
       "length": 46,
       "value": "\"PlaceEngine:: initRun:: engineStatus : start\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 9459,
+      "offset": 9460,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 9519,
+      "offset": 9520,
       "length": 46,
       "value": "\"PlaceEngine:: initRun:: engineStatus : pause\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 10051,
+      "offset": 10052,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 10744,
+      "offset": 10745,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 11787,
+      "offset": 11788,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 11828,
+      "offset": 11829,
       "length": 86,
       "value": "\"PlaceEngine:: updateEngineSettings:: SDK updated. Download sdk config from server...\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 12529,
+      "offset": 12530,
       "length": 38,
       "value": "\"00000000-0000-0000-0000-000000000000\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 12672,
+      "offset": 12673,
       "length": 110,
       "value": "\"PlaceEngine:: updateEngineSettings:: SDK Version changed, IDFA can not be used, No have TSID, SDK ANID Reset\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 13772,
+      "offset": 13773,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 14305,
+      "offset": 14306,
       "length": 38,
       "value": "\"PlaceEngine:: stop:: already stopped\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 14389,
+      "offset": 14390,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 14475,
+      "offset": 14476,
       "length": 22,
       "value": "\"PlaceEngine:: stop::\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 14707,
+      "offset": 14708,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 15274,
+      "offset": 15275,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 15349,
+      "offset": 15350,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 16476,
+      "offset": 16477,
       "length": 49,
       "value": "\"PlaceEngine:: start:: engine is already started\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 16571,
+      "offset": 16572,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 17103,
+      "offset": 17104,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 17202,
+      "offset": 17203,
       "length": 50,
       "value": "\"PlaceEngine:: resume:: engine is already started\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 17344,
+      "offset": 17345,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 17414,
+      "offset": 17415,
       "length": 71,
       "value": "\"PlaceEngine:: resume:: SDK has been disabled by settings.(force_stop)\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 17684,
+      "offset": 17685,
       "length": 45,
       "value": "\"PlaceEngine:: resume:: engine is not paused\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18320,
+      "offset": 18321,
       "length": 23,
       "value": "\"loplat X(Gravity) is \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18370,
+      "offset": 18371,
       "length": 8,
       "value": "\"enable\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18381,
+      "offset": 18382,
       "length": 9,
       "value": "\"disable\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18394,
+      "offset": 18395,
       "length": 12,
       "value": "\"\nNoti is \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18437,
+      "offset": 18438,
       "length": 8,
       "value": "\"enable\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18448,
+      "offset": 18449,
       "length": 9,
       "value": "\"disable\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18480,
+      "offset": 18481,
       "length": 35,
       "value": "\"PlaceEngine:: resume:: \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18514,
+      "offset": 18515,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 18710,
+      "offset": 18711,
       "length": 50,
       "value": "\"PlaceEngine:: resume:: app restart on background\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 19010,
+      "offset": 19011,
       "length": 85,
       "value": "\"PlaceEngine:: resume:: IP Location not Working. ips is not activated from SDKConfig\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 20062,
+      "offset": 20063,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 20103,
+      "offset": 20104,
       "length": 79,
       "value": "\"PlaceEngine:: resume:: Bluetooth.run() updating... Bluetooth metadata on init\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 20969,
+      "offset": 20970,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "FloatLiteral",
-      "offset": 21778,
+      "offset": 21779,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 22059,
+      "offset": 22060,
       "length": 132,
       "value": "\"PlaceEngine:: requestPlace:: requested in 5 seconds from last request. \ntry again after \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 22182,
+      "offset": 22183,
       "length": 7,
       "value": "\" seconds\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 22396,
+      "offset": 22397,
       "length": 48,
       "value": "\"PlaceEngine:: requestPlace:: searchType - none\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 22511,
+      "offset": 22512,
       "length": 85,
       "value": "\"PlaceEngine:: requestPlace:: searchType - \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 22576,
+      "offset": 22577,
       "length": 1,
       "value": "\" : getPlaceInternal\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 23003,
+      "offset": 23004,
       "length": 85,
       "value": "\"PlaceEngine:: requestPlace:: searchType - \""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 23068,
+      "offset": 23069,
       "length": 1,
       "value": "\" : getPlaceManually\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 23658,
+      "offset": 23659,
       "length": 27,
       "value": "\"PlaceEngine:: setConfig::\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 23703,
+      "offset": 23704,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "StringLiteral",
-      "offset": 24381,
+      "offset": 24382,
       "length": 71,
       "value": "\"PlaceEngine:: setConfig:: updating... Bluetooth metadata on setConfig\""
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 24715,
+      "offset": 24716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 24966,
+      "offset": 24967,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 25012,
+      "offset": 25013,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 25062,
+      "offset": 25063,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 25100,
+      "offset": 25101,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 25195,
+      "offset": 25196,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 27000,
+      "offset": 27001,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 27473,
+      "offset": 27474,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 27815,
+      "offset": 27816,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 28109,
+      "offset": 28110,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 28451,
+      "offset": 28452,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 28602,
+      "offset": 28603,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 28755,
+      "offset": 28756,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 28789,
+      "offset": 28790,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yun\/loplat\/Projects\/loplat-ios-sdk_v2\/PlaceEngine\/PlaceEngine\/Engine\/PlaceEngie\/PlaceEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 28851,
+      "offset": 28852,
       "length": 5,
       "value": "false"
     },
